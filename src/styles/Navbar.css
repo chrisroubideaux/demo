@@ -1,0 +1,47 @@
+/*nav*/
+.navbar {
+    font-size: 1.5rem;
+    padding-top: 0.8rem; 
+    font-family: 'Barlow Condensed', sans-serif;
+  }
+      
+  .nav-link {
+    font-size: 2.0rem; 
+    color: #F94C66; 
+  }
+
+  .nav-links {
+    font-size: 20px; 
+    color: #F94C66; 
+    text-decoration: none;
+  }
+
+  .nav-links :hover {
+    color: #EF9F9F; 
+  }
+  .nav-link :hover {
+    color: #EF9F9F; 
+  }
+      
+  .nav-item {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+      
+  .nav-item :hover {
+    color: #EF9F9F; 
+  }
+      
+  li a {
+    color: #F94C66; 
+    font-size: 1.5rem;
+    text-decoration: none;
+  }
+      
+  li a:hover {
+    color: #EF9F9F; 
+  }
+      
+  li :hover {
+    color: #EF9F9F; 
+  }
